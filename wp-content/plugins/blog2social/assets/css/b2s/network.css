@@ -1,0 +1,93 @@
+/*Custom*/
+
+.b2s-loading-area-modify-collection{
+    text-align: center;
+}
+
+.list-group-item{
+    border: 0px !important;
+}
+@media(max-width: 767px) {
+    .form-inline {
+        display: none;
+    }
+    .filterHide {
+        display: none;
+    }
+    .form-inline button { 
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 450px) {
+    .add-padding-left{
+        padding: 0px !important;
+    }
+}
+
+.error{
+    border: 1px solid #FF0000 !important;
+}
+.b2s-network-auth-btn{
+    margin-left: 2px;
+}
+
+.b2s-network-get-more-btn{
+    text-decoration: underline;
+}
+.b2s-network-auth-count{
+    font-size: 12px;
+    font-style: italic;
+    color: #777;
+    font-weight: normal;
+    line-height: 1;
+}
+
+.not-allow{
+    color: #777 !important;
+    text-decoration: line-through;
+}
+
+.no-allow-info-text{
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.b2s-network-mandant-select{
+    min-width: 200px;
+}
+
+.b2s-network-mandant-name{
+    font-size: 12px;
+    font-style: italic;
+    color: #777;
+    font-weight: normal;
+
+}
+
+.b2s-network-item-auth-list{
+    padding-top:6px;
+    font-size: 0.87rem !important;
+}
+
+.b2s-network-item-auth-list-li{
+    border: 1px solid rgba(0,0,0,.1);
+    border-bottom: 0px;
+    line-height: 1.5;
+    padding: 6px;
+    margin-bottom: 0px !important;
+}
+
+ul.b2s-network-item-auth-list li:last-child{
+    border-bottom: 1px solid rgba(0,0,0,.1) !important;
+}
+
+
+.b2s-network-item-auth-type{
+    font-weight: 600;
+}
+
+.b2s-modify-board-and-group-network-modal-footer{
+    border: 0px !important;
+}

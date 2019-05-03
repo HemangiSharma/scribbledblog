@@ -1,0 +1,1820 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Designer\n"
+"POT-Creation-Date: 2018-05-23 14:26+0530\n"
+"PO-Revision-Date: 2016-08-26 11:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: Solwin Infotech <info@solwininfotech.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x;_ex;_nx;esc_attr_e;"
+"_n_noop:1,2;esc_attr__;esc_attr_x;esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-designer.php:59 blog-designer.php:115 blog-designer.php:118
+#: blog-designer.php:278 blog-designer.php:3889
+msgid "Blog Designer"
+msgstr ""
+
+#: blog-designer.php:63
+msgid "Content"
+msgstr ""
+
+#: blog-designer.php:65
+msgid "Custom Blog Layout"
+msgstr ""
+
+#: blog-designer.php:91
+msgid "Oops, nothing found!"
+msgstr ""
+
+#: blog-designer.php:92
+msgid "Do you want to reset data?"
+msgstr ""
+
+#: blog-designer.php:93
+msgid "Choose the blog template you love"
+msgstr ""
+
+#: blog-designer.php:94
+msgid "Close"
+msgstr ""
+
+#: blog-designer.php:95
+msgid "Set Blog Template"
+msgstr ""
+
+#: blog-designer.php:96
+msgid "Apply default style of this selected template"
+msgstr ""
+
+#: blog-designer.php:97 blog-designer.php:2246
+msgid "No template exist for selection"
+msgstr ""
+
+#: blog-designer.php:120
+msgid "Blog designer Settings"
+msgstr ""
+
+#: blog-designer.php:120 blog-designer.php:2078
+msgid "Blog Designer Settings"
+msgstr ""
+
+#: blog-designer.php:121 includes/getting_started.php:20
+#: includes/getting_started.php:73
+msgid "Getting Started"
+msgstr ""
+
+#: blog-designer.php:194 blog-designer.php:205
+msgid "News From Solwin Infotech"
+msgstr ""
+
+#: blog-designer.php:202
+msgid "Solwin Infotech News"
+msgstr ""
+
+#: blog-designer.php:218
+msgid "Latest Product"
+msgstr ""
+
+#: blog-designer.php:222
+msgid "Something went wrong"
+msgstr ""
+
+#: blog-designer.php:277
+msgid "If you like "
+msgstr ""
+
+#: blog-designer.php:279
+msgid "please leave us a"
+msgstr ""
+
+#: blog-designer.php:281
+msgid "rating. A huge thank you from Solwin Infotech in advance!"
+msgstr ""
+
+#: blog-designer.php:300
+msgid "Boxy Template"
+msgstr ""
+
+#: blog-designer.php:306
+msgid "Boxy Clean Template"
+msgstr ""
+
+#: blog-designer.php:312
+msgid "Brit Co Template"
+msgstr ""
+
+#: blog-designer.php:318
+msgid "Classical Template"
+msgstr ""
+
+#: blog-designer.php:324
+msgid "Cool Horizontal Template"
+msgstr ""
+
+#: blog-designer.php:330
+msgid "Cover Template"
+msgstr ""
+
+#: blog-designer.php:336
+msgid "Clicky Template"
+msgstr ""
+
+#: blog-designer.php:342
+msgid "Deport Template"
+msgstr ""
+
+#: blog-designer.php:348
+msgid "Easy Timeline"
+msgstr ""
+
+#: blog-designer.php:354
+msgid "Elina Template"
+msgstr ""
+
+#: blog-designer.php:360
+msgid "Evolution Template"
+msgstr ""
+
+#: blog-designer.php:366
+msgid "Fairy Template"
+msgstr ""
+
+#: blog-designer.php:372
+msgid "Famous Template"
+msgstr ""
+
+#: blog-designer.php:378
+msgid "Glamour Template"
+msgstr ""
+
+#: blog-designer.php:384
+msgid "Glossary Template"
+msgstr ""
+
+#: blog-designer.php:390
+msgid "Explore Template"
+msgstr ""
+
+#: blog-designer.php:396
+msgid "Hoverbic Template"
+msgstr ""
+
+#: blog-designer.php:402
+msgid "Hub Template"
+msgstr ""
+
+#: blog-designer.php:408
+msgid "Minimal Template"
+msgstr ""
+
+#: blog-designer.php:414
+msgid "Masonry Timeline"
+msgstr ""
+
+#: blog-designer.php:420
+msgid "Invert Grid Template"
+msgstr ""
+
+#: blog-designer.php:426
+msgid "Lightbreeze Template"
+msgstr ""
+
+#: blog-designer.php:432
+msgid "Media Grid Template"
+msgstr ""
+
+#: blog-designer.php:438
+msgid "My Diary Template"
+msgstr ""
+
+#: blog-designer.php:444
+msgid "Navia Template"
+msgstr ""
+
+#: blog-designer.php:450
+msgid "News Template"
+msgstr ""
+
+#: blog-designer.php:456
+msgid "Offer Blog Template"
+msgstr ""
+
+#: blog-designer.php:462
+msgid "Overlay Horizontal Template"
+msgstr ""
+
+#: blog-designer.php:468
+msgid "Nicy Template"
+msgstr ""
+
+#: blog-designer.php:474
+msgid "Region Template"
+msgstr ""
+
+#: blog-designer.php:480
+msgid "Roctangle Template"
+msgstr ""
+
+#: blog-designer.php:486
+msgid "Sharpen Template"
+msgstr ""
+
+#: blog-designer.php:492
+msgid "Spektrum Template"
+msgstr ""
+
+#: blog-designer.php:498
+msgid "Story Template"
+msgstr ""
+
+#: blog-designer.php:504
+msgid "Timeline Template"
+msgstr ""
+
+#: blog-designer.php:510
+msgid "Winter Template"
+msgstr ""
+
+#: blog-designer.php:516
+msgid "Crayon Slider Template"
+msgstr ""
+
+#: blog-designer.php:522
+msgid "Sallet Slider Template"
+msgstr ""
+
+#: blog-designer.php:528
+msgid "Sunshiny Slider Template"
+msgstr ""
+
+#: blog-designer.php:534
+msgid "Pretty Template"
+msgstr ""
+
+#: blog-designer.php:540
+msgid "Tagly Template"
+msgstr ""
+
+#: blog-designer.php:546
+msgid "Brite Template"
+msgstr ""
+
+#: blog-designer.php:552
+msgid "Chapter Template"
+msgstr ""
+
+#: blog-designer.php:558
+msgid "Steps Template"
+msgstr ""
+
+#: blog-designer.php:564
+msgid "Miracle Template"
+msgstr ""
+
+#: blog-designer.php:611 blog-designer.php:2085
+msgid "View Blog"
+msgstr ""
+
+#: blog-designer.php:1026
+msgid "plz go to "
+msgstr ""
+
+#: blog-designer.php:1026
+msgid "Blog Designer Panel"
+msgstr ""
+
+#: blog-designer.php:1026
+msgid "select Blog Designs & save settings."
+msgstr ""
+
+#: blog-designer.php:1028
+msgid "You haven't created any blog designer shortcode."
+msgstr ""
+
+#: blog-designer.php:1231 blog-designer.php:1240 blog-designer.php:1379
+#: blog-designer.php:1569 blog-designer.php:1670
+msgid "Posted by "
+msgstr ""
+
+#: blog-designer.php:1235
+msgid "on"
+msgstr ""
+
+#: blog-designer.php:1245
+msgid "Posted on "
+msgstr ""
+
+#: blog-designer.php:1266
+msgid "Category"
+msgstr ""
+
+#: blog-designer.php:1286 blog-designer.php:1720 blog-designer.php:1880
+msgid "Tags"
+msgstr ""
+
+#: blog-designer.php:1306 blog-designer.php:1420 blog-designer.php:1703
+msgid "Continue Reading..."
+msgstr ""
+
+#: blog-designer.php:1340 blog-designer.php:1471 blog-designer.php:1522
+#: blog-designer.php:1536 blog-designer.php:1759 blog-designer.php:1831
+#: blog-designer.php:1987 blog-designer.php:2056
+#: includes/getting_started.php:142 includes/getting_started.php:151
+#: includes/getting_started.php:162 includes/getting_started.php:171
+#: includes/getting_started.php:180
+msgid "Read More"
+msgstr ""
+
+#: blog-designer.php:1406 blog-designer.php:1589 blog-designer.php:1811
+msgid "No Comments"
+msgstr ""
+
+#: blog-designer.php:1406 blog-designer.php:1589 blog-designer.php:1811
+#: blog-designer.php:1971
+msgid "1 Comment"
+msgstr ""
+
+#: blog-designer.php:1406 blog-designer.php:1589 blog-designer.php:1811
+#: blog-designer.php:1971
+msgid "Comments"
+msgstr ""
+
+#: blog-designer.php:1557 blog-designer.php:1862
+msgid "Categories"
+msgstr ""
+
+#: blog-designer.php:1845
+msgid "Read more"
+msgstr ""
+
+#: blog-designer.php:1971
+msgid "Leave a Comment"
+msgstr ""
+
+#: blog-designer.php:1971
+msgid "Comments are off"
+msgstr ""
+
+#: blog-designer.php:2080
+msgid "Read Online Documentation"
+msgstr ""
+
+#: blog-designer.php:2081
+msgid "See Live Demo"
+msgstr ""
+
+#: blog-designer.php:2082
+msgid "Get access of "
+msgstr ""
+
+#: blog-designer.php:2082
+msgid "40+ new layouts"
+msgstr ""
+
+#: blog-designer.php:2082 blog-designer.php:3370
+msgid "and"
+msgstr ""
+
+#: blog-designer.php:2082
+msgid "150+ new premium"
+msgstr ""
+
+#: blog-designer.php:2082
+msgid " features."
+msgstr ""
+
+#: blog-designer.php:2082
+msgid "Upgrade to PRO now"
+msgstr ""
+
+#: blog-designer.php:2087
+msgid "Blog Designer setting restored successfully."
+msgstr ""
+
+#: blog-designer.php:2089
+msgid "Blog Designer settings updated."
+msgstr ""
+
+#: blog-designer.php:2111
+msgid "Blog designer settings"
+msgstr ""
+
+#: blog-designer.php:2114 blog-designer.php:2115 blog-designer.php:3313
+msgid "Save Changes"
+msgstr ""
+
+#: blog-designer.php:2117
+msgid "Show Preview"
+msgstr ""
+
+#: blog-designer.php:2118
+msgid "Preview"
+msgstr ""
+
+#: blog-designer.php:2162
+msgid "General Settings"
+msgstr ""
+
+#: blog-designer.php:2166
+msgid "Standard Settings"
+msgstr ""
+
+#: blog-designer.php:2170
+msgid "Post Title Settings"
+msgstr ""
+
+#: blog-designer.php:2174
+msgid "Post Content Settings"
+msgstr ""
+
+#: blog-designer.php:2178
+msgid "Media Settings"
+msgstr ""
+
+#: blog-designer.php:2182
+msgid "Social Share Settings"
+msgstr ""
+
+#: blog-designer.php:2189
+msgid "Select Blog Layout"
+msgstr ""
+
+#: blog-designer.php:2191
+msgid "Select your favorite layout from 6 free layouts."
+msgstr ""
+
+#: blog-designer.php:2191
+msgid ""
+"Upgrade for just $39 to access 40+ brand new layouts and other premium "
+"features."
+msgstr ""
+
+#: blog-designer.php:2192
+msgid "Current Template:"
+msgstr ""
+
+#: blog-designer.php:2197 blog-designer.php:2229 blog-designer.php:2234
+#: blog-designer.php:2240
+msgid "Template"
+msgstr ""
+
+#: blog-designer.php:2201
+msgid "Select Other Template"
+msgstr ""
+
+#: blog-designer.php:2209 blog-designer.php:2210
+msgid "Reset Layout Settings"
+msgstr ""
+
+#: blog-designer.php:2256
+msgid "Caution:"
+msgstr ""
+
+#: blog-designer.php:2258
+msgid ""
+"You are about to select the page for your layout. This will overwrite all "
+"the content on the page that you will select. Changes once lost connot be "
+"recovered. Please be cautious!"
+msgstr ""
+
+#: blog-designer.php:2263
+msgid " Select Page for Blog "
+msgstr ""
+
+#: blog-designer.php:2267
+msgid "Select page for display blog layout"
+msgstr ""
+
+#: blog-designer.php:2274
+msgid "Select Page"
+msgstr ""
+
+#: blog-designer.php:2284
+msgid "Number of Posts to Display"
+msgstr ""
+
+#: blog-designer.php:2288
+msgid " Select number of posts to display on blog page"
+msgstr ""
+
+#: blog-designer.php:2301
+msgid "Select Post Categories"
+msgstr ""
+
+#: blog-designer.php:2305
+msgid " Choose post categories to filter posts via category"
+msgstr ""
+
+#: blog-designer.php:2307
+msgid "Choose Post Categories"
+msgstr ""
+
+#: blog-designer.php:2321
+msgid "Select Post Tags"
+msgstr ""
+
+#: blog-designer.php:2325
+msgid " Choose post tag to filter posts via tags"
+msgstr ""
+
+#: blog-designer.php:2330
+msgid "Choose Post Tags"
+msgstr ""
+
+#: blog-designer.php:2344
+msgid "Select Post Authors"
+msgstr ""
+
+#: blog-designer.php:2348
+msgid " Choose post authors to filter posts via authors"
+msgstr ""
+
+#: blog-designer.php:2353
+msgid "Choose Post Authors"
+msgstr ""
+
+#: blog-designer.php:2365
+msgid "Display Settings"
+msgstr ""
+
+#: blog-designer.php:2372
+msgid "Post Category"
+msgstr ""
+
+#: blog-designer.php:2374
+msgid "Show post category on blog layout"
+msgstr ""
+
+#: blog-designer.php:2379 blog-designer.php:2396 blog-designer.php:2413
+#: blog-designer.php:2430 blog-designer.php:2446 blog-designer.php:2463
+#: blog-designer.php:2483 blog-designer.php:2553 blog-designer.php:2726
+#: blog-designer.php:2846 blog-designer.php:2864 blog-designer.php:3034
+#: blog-designer.php:3236 blog-designer.php:3252 blog-designer.php:3268
+#: blog-designer.php:3284 blog-designer.php:3300
+msgid "Yes"
+msgstr ""
+
+#: blog-designer.php:2381 blog-designer.php:2398 blog-designer.php:2415
+#: blog-designer.php:2432 blog-designer.php:2448 blog-designer.php:2465
+#: blog-designer.php:2485 blog-designer.php:2555 blog-designer.php:2728
+#: blog-designer.php:2848 blog-designer.php:2866 blog-designer.php:3036
+#: blog-designer.php:3238 blog-designer.php:3254 blog-designer.php:3270
+#: blog-designer.php:3286 blog-designer.php:3302
+msgid "No"
+msgstr ""
+
+#: blog-designer.php:2389
+msgid "Post Tag"
+msgstr ""
+
+#: blog-designer.php:2391
+msgid "Show post tag on blog layout"
+msgstr ""
+
+#: blog-designer.php:2406
+msgid "Post Author "
+msgstr ""
+
+#: blog-designer.php:2408
+msgid "Show post author on blog layout"
+msgstr ""
+
+#: blog-designer.php:2423
+msgid "Post Published Date"
+msgstr ""
+
+#: blog-designer.php:2425
+msgid "Show post published date on blog layout"
+msgstr ""
+
+#: blog-designer.php:2439
+msgid "Comment Count"
+msgstr ""
+
+#: blog-designer.php:2441
+msgid "Show post comment on blog layout"
+msgstr ""
+
+#: blog-designer.php:2455
+msgid "Post Like"
+msgstr ""
+
+#: blog-designer.php:2456 blog-designer.php:2602 blog-designer.php:2630
+#: blog-designer.php:2658 blog-designer.php:2687 blog-designer.php:2702
+#: blog-designer.php:2720 blog-designer.php:2737 blog-designer.php:2751
+#: blog-designer.php:2765 blog-designer.php:2826 blog-designer.php:2858
+#: blog-designer.php:2947 blog-designer.php:2966 blog-designer.php:2995
+#: blog-designer.php:3010 blog-designer.php:3028 blog-designer.php:3045
+#: blog-designer.php:3059 blog-designer.php:3073 blog-designer.php:3098
+#: blog-designer.php:3115 blog-designer.php:3127 blog-designer.php:3162
+#: blog-designer.php:3179
+msgid "PRO"
+msgstr ""
+
+#: blog-designer.php:2458
+msgid "Show post like on blog layout"
+msgstr ""
+
+#: blog-designer.php:2472
+msgid "Sticky Post"
+msgstr ""
+
+#: blog-designer.php:2474
+msgid "Show Sticky Post"
+msgstr ""
+
+#: blog-designer.php:2494
+msgid "Custom CSS"
+msgstr ""
+
+#: blog-designer.php:2498
+msgid "Write a \"Custom CSS\" to add your additional design for blog page"
+msgstr ""
+
+#: blog-designer.php:2510
+msgid "Main Container Class Name"
+msgstr ""
+
+#: blog-designer.php:2514
+msgid "Enter main container class name."
+msgstr ""
+
+#: blog-designer.php:2514
+msgid "Leave it blank if you do not want to use it"
+msgstr ""
+
+#: blog-designer.php:2515
+msgid "main cover class name"
+msgstr ""
+
+#: blog-designer.php:2522
+msgid "Blog Posts Template Color"
+msgstr ""
+
+#: blog-designer.php:2526
+msgid "Select post template color"
+msgstr ""
+
+#: blog-designer.php:2534
+msgid "Background Color for Blog Posts"
+msgstr ""
+
+#: blog-designer.php:2538
+msgid "Select post background color"
+msgstr ""
+
+#: blog-designer.php:2545
+msgid "Alternative Background Color"
+msgstr ""
+
+#: blog-designer.php:2549
+msgid "Enable/Disable alternative background color"
+msgstr ""
+
+#: blog-designer.php:2562
+msgid "Choose Alternative Background Color"
+msgstr ""
+
+#: blog-designer.php:2566
+msgid "Select alternative background color"
+msgstr ""
+
+#: blog-designer.php:2573
+msgid "Choose Link Color"
+msgstr ""
+
+#: blog-designer.php:2577
+msgid "Select link color"
+msgstr ""
+
+#: blog-designer.php:2584
+msgid "Choose Link Hover Color"
+msgstr ""
+
+#: blog-designer.php:2588
+msgid "Select link hover color"
+msgstr ""
+
+#: blog-designer.php:2600
+msgid "Post Title Link"
+msgstr ""
+
+#: blog-designer.php:2605
+msgid "Select post title link"
+msgstr ""
+
+#: blog-designer.php:2608 blog-designer.php:3104 blog-designer.php:3151
+msgid "Enable"
+msgstr ""
+
+#: blog-designer.php:2610 blog-designer.php:2903 blog-designer.php:3106
+#: blog-designer.php:3153
+msgid "Disable"
+msgstr ""
+
+#: blog-designer.php:2617
+msgid "Post Title Color"
+msgstr ""
+
+#: blog-designer.php:2621
+msgid "Select post title color"
+msgstr ""
+
+#: blog-designer.php:2628
+msgid "Post Title Link Hover Color"
+msgstr ""
+
+#: blog-designer.php:2633
+msgid "Select post title link hover color"
+msgstr ""
+
+#: blog-designer.php:2640
+msgid "Post Title Background Color"
+msgstr ""
+
+#: blog-designer.php:2644
+msgid "Select post title background color"
+msgstr ""
+
+#: blog-designer.php:2649 blog-designer.php:2958
+msgid "Typography Settings"
+msgstr ""
+
+#: blog-designer.php:2656 blog-designer.php:2964
+msgid "Font Family"
+msgstr ""
+
+#: blog-designer.php:2659
+msgid "Select post title font family"
+msgstr ""
+
+#: blog-designer.php:2670 blog-designer.php:2978
+msgid "Font Size (px)"
+msgstr ""
+
+#: blog-designer.php:2672
+msgid "Select post title font size"
+msgstr ""
+
+#: blog-designer.php:2685 blog-designer.php:2993
+msgid "Font Weight"
+msgstr ""
+
+#: blog-designer.php:2688 blog-designer.php:2996
+msgid "Select font weight"
+msgstr ""
+
+#: blog-designer.php:2700 blog-designer.php:3008
+msgid "Line Height"
+msgstr ""
+
+#: blog-designer.php:2703 blog-designer.php:3011
+msgid "Enter line height"
+msgstr ""
+
+#: blog-designer.php:2718 blog-designer.php:3026
+msgid "Italic Font Style"
+msgstr ""
+
+#: blog-designer.php:2721 blog-designer.php:3029
+msgid "Enable/Disable italic font style"
+msgstr ""
+
+#: blog-designer.php:2735 blog-designer.php:3043
+msgid "Text Transform"
+msgstr ""
+
+#: blog-designer.php:2738 blog-designer.php:3046
+msgid "Select text transform style"
+msgstr ""
+
+#: blog-designer.php:2749 blog-designer.php:3057
+msgid "Text Decoration"
+msgstr ""
+
+#: blog-designer.php:2752 blog-designer.php:3060
+msgid "Select text decoration style"
+msgstr ""
+
+#: blog-designer.php:2763 blog-designer.php:3071
+msgid "Letter Spacing (px)"
+msgstr ""
+
+#: blog-designer.php:2766 blog-designer.php:3074
+msgid "Enter letter spacing"
+msgstr ""
+
+#: blog-designer.php:2788
+msgid "For each Article in a Feed, Show "
+msgstr ""
+
+#: blog-designer.php:2792
+msgid ""
+"To display full text for each post, select full text option, otherwise "
+"select the summary option."
+msgstr ""
+
+#: blog-designer.php:2798
+msgid "Full Text"
+msgstr ""
+
+#: blog-designer.php:2800
+msgid "Summary"
+msgstr ""
+
+#: blog-designer.php:2807
+msgid "Post Content Length (words)"
+msgstr ""
+
+#: blog-designer.php:2811
+msgid "Enter number of words for post content length"
+msgstr ""
+
+#: blog-designer.php:2824
+msgid "Show Content From"
+msgstr ""
+
+#: blog-designer.php:2829
+msgid "To display text from post content or from post excerpt"
+msgstr ""
+
+#: blog-designer.php:2839
+msgid "Display HTML tags with Summary"
+msgstr ""
+
+#: blog-designer.php:2843
+msgid "Show HTML tags with summary"
+msgstr ""
+
+#: blog-designer.php:2856
+msgid "First letter as Dropcap"
+msgstr ""
+
+#: blog-designer.php:2861
+msgid "Enable first letter as Dropcap"
+msgstr ""
+
+#: blog-designer.php:2873
+msgid "Post Content Color"
+msgstr ""
+
+#: blog-designer.php:2877
+msgid "Select post content color"
+msgstr ""
+
+#: blog-designer.php:2883
+msgid "Read More Settings"
+msgstr ""
+
+#: blog-designer.php:2888
+msgid "Display Read More On"
+msgstr ""
+
+#: blog-designer.php:2892
+msgid "Select option for display read more button where to display"
+msgstr ""
+
+#: blog-designer.php:2899
+msgid "Same Line"
+msgstr ""
+
+#: blog-designer.php:2901
+msgid "Next Line"
+msgstr ""
+
+#: blog-designer.php:2912
+msgid "Read More Text"
+msgstr ""
+
+#: blog-designer.php:2914
+msgid "Enter read more text label"
+msgstr ""
+
+#: blog-designer.php:2923
+msgid "Text Color"
+msgstr ""
+
+#: blog-designer.php:2925
+msgid "Select read more text color"
+msgstr ""
+
+#: blog-designer.php:2934
+msgid "Background Color"
+msgstr ""
+
+#: blog-designer.php:2936
+msgid "Select read more text background color"
+msgstr ""
+
+#: blog-designer.php:2945
+msgid "Hover Background Color"
+msgstr ""
+
+#: blog-designer.php:2948
+msgid "Select Read more text hover background color"
+msgstr ""
+
+#: blog-designer.php:2967
+msgid "Select post content font family"
+msgstr ""
+
+#: blog-designer.php:2980
+msgid "Select font size for post content"
+msgstr ""
+
+#: blog-designer.php:3096
+msgid "Post Image Link"
+msgstr ""
+
+#: blog-designer.php:3101
+msgid "Enable/Disable post image link"
+msgstr ""
+
+#: blog-designer.php:3113
+msgid "Select Post Default Image"
+msgstr ""
+
+#: blog-designer.php:3118
+msgid "Select post default image"
+msgstr ""
+
+#: blog-designer.php:3119
+msgid "Upload Image"
+msgstr ""
+
+#: blog-designer.php:3125
+msgid "Select Post Media Size"
+msgstr ""
+
+#: blog-designer.php:3130
+msgid "Select size of post media"
+msgstr ""
+
+#: blog-designer.php:3144
+msgid "Social Share"
+msgstr ""
+
+#: blog-designer.php:3148
+msgid "Enable/Disable social share link"
+msgstr ""
+
+#: blog-designer.php:3160
+msgid "Social Share Style"
+msgstr ""
+
+#: blog-designer.php:3165
+msgid "Select social share style"
+msgstr ""
+
+#: blog-designer.php:3168
+msgid "Custom"
+msgstr ""
+
+#: blog-designer.php:3170
+msgid "Default"
+msgstr ""
+
+#: blog-designer.php:3177
+msgid "Available Icon Themes"
+msgstr ""
+
+#: blog-designer.php:3182
+msgid "Select icon theme from available icon theme"
+msgstr ""
+
+#: blog-designer.php:3210
+msgid "Shape of Social Icon"
+msgstr ""
+
+#: blog-designer.php:3214
+msgid "Select shape of social icon"
+msgstr ""
+
+#: blog-designer.php:3217
+msgid "Circle"
+msgstr ""
+
+#: blog-designer.php:3219
+msgid "Square"
+msgstr ""
+
+#: blog-designer.php:3224
+msgid "Social Share Links Settings"
+msgstr ""
+
+#: blog-designer.php:3229
+msgid "Facebook Share Link"
+msgstr ""
+
+#: blog-designer.php:3231
+msgid "Enable/Disable facebook share link"
+msgstr ""
+
+#: blog-designer.php:3245
+msgid "Linkedin Share Link"
+msgstr ""
+
+#: blog-designer.php:3247
+msgid "Enable/Disable linkedin share link"
+msgstr ""
+
+#: blog-designer.php:3261
+msgid "Google+ Share Link"
+msgstr ""
+
+#: blog-designer.php:3263
+msgid "Enable/Disable Google+ Share link"
+msgstr ""
+
+#: blog-designer.php:3277
+msgid "Pinterest Share link"
+msgstr ""
+
+#: blog-designer.php:3279
+msgid "Enable/Disable Pinterest share link"
+msgstr ""
+
+#: blog-designer.php:3293
+msgid "Twitter Share Link"
+msgstr ""
+
+#: blog-designer.php:3295
+msgid "Enable/Disable twitter share link"
+msgstr ""
+
+#: blog-designer.php:3320
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: blog-designer.php:3322
+msgid "Enjoyed this plugin?"
+msgstr ""
+
+#: blog-designer.php:3323
+msgid "You can help by"
+msgstr ""
+
+#: blog-designer.php:3325
+msgid "rate this plugin 5 stars!"
+msgstr ""
+
+#: blog-designer.php:3329
+msgid "Downloads:"
+msgstr ""
+
+#: blog-designer.php:3340 includes/getting_started.php:25
+#: includes/getting_started.php:127
+msgid "Blog Designer PRO"
+msgstr ""
+
+#: blog-designer.php:3345
+msgid "40+ Beautiful Blog Templates"
+msgstr ""
+
+#: blog-designer.php:3346
+msgid "5+ Unique Timeline Templates"
+msgstr ""
+
+#: blog-designer.php:3347
+msgid "10 Unique Grid Templates"
+msgstr ""
+
+#: blog-designer.php:3348
+msgid "3 Unique Slider Templates"
+msgstr ""
+
+#: blog-designer.php:3349
+msgid "200+ Blog Layout Variations"
+msgstr ""
+
+#: blog-designer.php:3350
+msgid "Multiple Single Post Layout options"
+msgstr ""
+
+#: blog-designer.php:3351
+msgid "Category, Tag, Author & Date Layouts"
+msgstr ""
+
+#: blog-designer.php:3352
+msgid "Post Type & Taxonomy Filter"
+msgstr ""
+
+#: blog-designer.php:3353
+msgid "800+ Google Font Support"
+msgstr ""
+
+#: blog-designer.php:3354
+msgid "600+ Font Awesome Icons Support"
+msgstr ""
+
+#: blog-designer.php:3356
+msgid "Now only at"
+msgstr ""
+
+#: blog-designer.php:3360
+msgid "Buy Now on Codecanyon"
+msgstr ""
+
+#: blog-designer.php:3366
+msgid "Need Support?"
+msgstr ""
+
+#: blog-designer.php:3368
+msgid "Check out the"
+msgstr ""
+
+#: blog-designer.php:3369
+msgid "FAQs"
+msgstr ""
+
+#: blog-designer.php:3371
+msgid "Support Forums"
+msgstr ""
+
+#: blog-designer.php:3376
+msgid "Share & Follow Us"
+msgstr ""
+
+#: blog-designer.php:3441
+msgid "All"
+msgstr ""
+
+#: blog-designer.php:3444
+msgid "Free"
+msgstr ""
+
+#: blog-designer.php:3447
+msgid "Full Width"
+msgstr ""
+
+#: blog-designer.php:3450
+msgid "Grid"
+msgstr ""
+
+#: blog-designer.php:3453
+msgid "Masonry"
+msgstr ""
+
+#: blog-designer.php:3456
+msgid "Magazine"
+msgstr ""
+
+#: blog-designer.php:3459
+msgid "Timeline"
+msgstr ""
+
+#: blog-designer.php:3462
+msgid "Slider"
+msgstr ""
+
+#: blog-designer.php:3465
+msgid "Search Template"
+msgstr ""
+
+#: blog-designer.php:3485 blog-designer.php:3937 blog-designer.php:3969
+msgid "Select Template"
+msgstr ""
+
+#: blog-designer.php:3486 blog-designer.php:3496 blog-designer.php:3938
+#: blog-designer.php:3948 blog-designer.php:3970 blog-designer.php:3980
+msgid "Live Demo"
+msgstr ""
+
+#: blog-designer.php:3506
+msgid "No template found. Please try again"
+msgstr ""
+
+#: blog-designer.php:3532
+msgid "Hi there!"
+msgstr ""
+
+#: blog-designer.php:3533
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+
+#: blog-designer.php:3534
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+
+#: blog-designer.php:3535
+msgid "Email Address for Notifications"
+msgstr ""
+
+#: blog-designer.php:3537
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr ""
+
+#: blog-designer.php:3538
+msgid "Blog Designer will still work fine."
+msgstr ""
+
+#: blog-designer.php:3539
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: blog-designer.php:3545
+msgid "User Details"
+msgstr ""
+
+#: blog-designer.php:3546
+msgid "Name and Email Address"
+msgstr ""
+
+#: blog-designer.php:3552
+msgid "Current Plugin Status"
+msgstr ""
+
+#: blog-designer.php:3553
+msgid "Activation, Deactivation and Uninstall"
+msgstr ""
+
+#: blog-designer.php:3561
+msgid "Notifications"
+msgstr ""
+
+#: blog-designer.php:3562
+msgid "Updates & Announcements"
+msgstr ""
+
+#: blog-designer.php:3568
+msgid "Website Overview"
+msgstr ""
+
+#: blog-designer.php:3569
+msgid "Site URL, WP Version, PHP Info, Plugins & Themes Info"
+msgstr ""
+
+#: blog-designer.php:3576 blog-designer.php:3833
+msgid ""
+"By clicking this button, you agree with the storage and handling of your "
+"data as mentioned above by this website. (GDPR Compliance)"
+msgstr ""
+
+#: blog-designer.php:3579 blog-designer.php:3837
+msgid "Skip"
+msgstr ""
+
+#: blog-designer.php:3579 blog-designer.php:3580
+msgid "Continue"
+msgstr ""
+
+#: blog-designer.php:3580
+msgid "Opt-In"
+msgstr ""
+
+#: blog-designer.php:3623
+msgid "Previous"
+msgstr ""
+
+#: blog-designer.php:3624
+msgid "Next"
+msgstr ""
+
+#: blog-designer.php:3778
+msgid ""
+"If you have a moment, please let us know why you are deactivating. We would "
+"like to help you in fixing the issue."
+msgstr ""
+
+#: blog-designer.php:3784
+msgid "I am going to upgrade to PRO version"
+msgstr ""
+
+#: blog-designer.php:3789
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: blog-designer.php:3794
+msgid "The plugin was not working"
+msgstr ""
+
+#: blog-designer.php:3802
+msgid "I have configured plugin but not working with my blog page"
+msgstr ""
+
+#: blog-designer.php:3807
+msgid "Installed & configured well but disturbed my blog page design"
+msgstr ""
+
+#: blog-designer.php:3812
+msgid "My theme's blog page is better than plugin's blog page design"
+msgstr ""
+
+#: blog-designer.php:3817
+msgid "The plugin broke my site completely"
+msgstr ""
+
+#: blog-designer.php:3822
+msgid "No any reason"
+msgstr ""
+
+#: blog-designer.php:3827
+msgid "Other"
+msgstr ""
+
+#: blog-designer.php:3835
+msgid "Submit"
+msgstr ""
+
+#: blog-designer.php:3835 blog-designer.php:3837
+msgid "Deactivate"
+msgstr ""
+
+#: blog-designer.php:3836
+msgid "Cancel"
+msgstr ""
+
+#: blog-designer.php:3837
+msgid "Deactivate Blog Designer"
+msgstr ""
+
+#: blog-designer.php:3840
+msgid "Would you like to give us a chance to help you?"
+msgstr ""
+
+#: blog-designer.php:3842
+msgid "Create a support ticket"
+msgstr ""
+
+#: blog-designer.php:3868
+msgid "View Blog Designer Settings"
+msgstr ""
+
+#: blog-designer.php:3868
+msgid "Settings"
+msgstr ""
+
+#: blog-designer.php:3871
+msgid "Documentation"
+msgstr ""
+
+#: blog-designer.php:3872
+msgid "Upgrade"
+msgstr ""
+
+#: blog-designer.php:3891
+msgid "To make your blog design more pretty, attractive and colorful."
+msgstr ""
+
+#: blog-designer.php:4006
+msgid "words"
+msgstr ""
+
+#: blog-designer.php:4086
+msgid "Test Blog Page"
+msgstr ""
+
+#: includes/getting_started.php:21
+msgid ""
+"You will find everything you need to get started here with Blog Designer "
+"plugin."
+msgstr ""
+
+#: includes/getting_started.php:26
+msgid "Version"
+msgstr ""
+
+#: includes/getting_started.php:34
+msgid "Read This First"
+msgstr ""
+
+#: includes/getting_started.php:37
+msgid "More Free Plugins"
+msgstr ""
+
+#: includes/getting_started.php:40
+msgid "More Free Themes"
+msgstr ""
+
+#: includes/getting_started.php:48
+msgid "Success, The Blog Designer is now activated! &#x1F60A"
+msgstr ""
+
+#: includes/getting_started.php:61
+msgid ""
+"Would you like to create one test blog page to check usage of Blog Designer "
+"plugin?"
+msgstr ""
+
+#: includes/getting_started.php:62
+msgid "Yes, Please do it"
+msgstr ""
+
+#: includes/getting_started.php:62
+msgid "No, I will configure my self (Give me steps)"
+msgstr ""
+
+#: includes/getting_started.php:66
+msgid "We have created a"
+msgstr ""
+
+#: includes/getting_started.php:66 includes/getting_started.php:86
+msgid "Blog Page"
+msgstr ""
+
+#: includes/getting_started.php:66
+msgid "with"
+msgstr ""
+
+#: includes/getting_started.php:66
+msgid "blog template."
+msgstr ""
+
+#: includes/getting_started.php:67
+msgid "Visit blog page"
+msgstr ""
+
+#: includes/getting_started.php:69
+msgid "To customize the Blog Page design after complete installation,"
+msgstr ""
+
+#: includes/getting_started.php:69
+msgid "Go to Blog Designer Settings"
+msgstr ""
+
+#: includes/getting_started.php:69
+msgid "In case of an any doubt,"
+msgstr ""
+
+#: includes/getting_started.php:69
+msgid "Read Documentation"
+msgstr ""
+
+#: includes/getting_started.php:69
+msgid "or write to us via"
+msgstr ""
+
+#: includes/getting_started.php:69
+msgid "support portal"
+msgstr ""
+
+#: includes/getting_started.php:69
+msgid "support forum"
+msgstr ""
+
+#: includes/getting_started.php:73
+msgid "Must Read"
+msgstr ""
+
+#: includes/getting_started.php:75
+msgid ""
+"Once you’ve activated your plugin, you’ll be redirected to this Getting "
+"Started page (Blog Designer > Getting Started). Here, you can view the "
+"required and helpful steps to use plugin."
+msgstr ""
+
+#: includes/getting_started.php:76
+msgid "We recommed that please read the below sections for more details."
+msgstr ""
+
+#: includes/getting_started.php:80
+msgid "Important things"
+msgstr ""
+
+#: includes/getting_started.php:80
+msgid "Required"
+msgstr ""
+
+#: includes/getting_started.php:81 includes/getting_started.php:92
+#: includes/getting_started.php:103 includes/getting_started.php:119
+msgid "Back to Top"
+msgstr ""
+
+#: includes/getting_started.php:83
+msgid ""
+"To use Blog Designer, follow the below steps for initial setup - Correct the "
+"Reading Settings."
+msgstr ""
+
+#: includes/getting_started.php:85
+msgid "To check the reading settings, click"
+msgstr ""
+
+#: includes/getting_started.php:85
+msgid "Settings > Reading"
+msgstr ""
+
+#: includes/getting_started.php:85
+msgid "in the WordPress admin menu."
+msgstr ""
+
+#: includes/getting_started.php:86
+msgid "If your "
+msgstr ""
+
+#: includes/getting_started.php:86
+msgid "Posts page"
+msgstr ""
+
+#: includes/getting_started.php:86
+msgid " selection selected with the same exact"
+msgstr ""
+
+#: includes/getting_started.php:86
+msgid ""
+"selection that same page you seleced under Blog Designer settings then "
+"change that selection to default one ("
+msgstr ""
+
+#: includes/getting_started.php:86
+msgid "\" — Select — \""
+msgstr ""
+
+#: includes/getting_started.php:86
+msgid ") from the dropdown."
+msgstr ""
+
+#: includes/getting_started.php:91
+msgid "How to use Blog Designer Shortcode?"
+msgstr ""
+
+#: includes/getting_started.php:91 includes/getting_started.php:102
+msgid "Optional"
+msgstr ""
+
+#: includes/getting_started.php:94
+msgid ""
+"Blog Designer is flexible to be used with any page builders like Visual "
+"Composer, Elementor, Beaver Builder, SiteOrigin, Tailor, etc."
+msgstr ""
+
+#: includes/getting_started.php:96
+msgid "Use shortcode"
+msgstr ""
+
+#: includes/getting_started.php:96
+msgid "[wp_blog_designer]"
+msgstr ""
+
+#: includes/getting_started.php:96
+msgid "in any WordPress post or page."
+msgstr ""
+
+#: includes/getting_started.php:97
+msgid "Use"
+msgstr ""
+
+#: includes/getting_started.php:97
+msgid "into a template file within your theme files."
+msgstr ""
+
+#: includes/getting_started.php:102
+msgid "Import Dummy Posts"
+msgstr ""
+
+#: includes/getting_started.php:105
+msgid ""
+"We have craeted a dummy set of posts for you to get started with Blog "
+"Designer."
+msgstr ""
+
+#: includes/getting_started.php:106
+msgid "To import the dummy posts, follow the below process:"
+msgstr ""
+
+#: includes/getting_started.php:108
+msgid "Go to"
+msgstr ""
+
+#: includes/getting_started.php:108
+msgid "Tools > Import"
+msgstr ""
+
+#: includes/getting_started.php:108
+msgid "in WordPress Admin panel."
+msgstr ""
+
+#: includes/getting_started.php:109
+msgid "Run "
+msgstr ""
+
+#: includes/getting_started.php:109
+msgid "WordPress Importer "
+msgstr ""
+
+#: includes/getting_started.php:109
+msgid " at the end of the presentated list."
+msgstr ""
+
+#: includes/getting_started.php:110
+msgid "You will be redirected on "
+msgstr ""
+
+#: includes/getting_started.php:110
+msgid "Import WordPress "
+msgstr ""
+
+#: includes/getting_started.php:110
+msgid " where we need to select actual sample posts XML file."
+msgstr ""
+
+#: includes/getting_started.php:111
+msgid "Select"
+msgstr ""
+
+#: includes/getting_started.php:111
+msgid "from"
+msgstr ""
+
+#: includes/getting_started.php:111
+msgid "blog-designer > includes > dummy-data"
+msgstr ""
+
+#: includes/getting_started.php:111
+msgid "folder."
+msgstr ""
+
+#: includes/getting_started.php:112
+msgid "Click on"
+msgstr ""
+
+#: includes/getting_started.php:112
+msgid "Upload file and import"
+msgstr ""
+
+#: includes/getting_started.php:112
+msgid "and with next step please select"
+msgstr ""
+
+#: includes/getting_started.php:112
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/getting_started.php:112
+msgid "checkbox. Enjoy your cuppa joe with WordPress imports."
+msgstr ""
+
+#: includes/getting_started.php:113
+msgid "All done! Your website is ready with sample blog posts."
+msgstr ""
+
+#: includes/getting_started.php:118
+msgid "Blog Designer Plugin Support"
+msgstr ""
+
+#: includes/getting_started.php:121
+msgid ""
+"Blog Designer comes with this handy help file to help you get started with "
+"setting up the plugin and showcasing blog page in beautiful ways."
+msgstr ""
+
+#: includes/getting_started.php:122
+msgid " Please consider purchasing a"
+msgstr ""
+
+#: includes/getting_started.php:122
+msgid " PRO version"
+msgstr ""
+
+#: includes/getting_started.php:122
+msgid ""
+"which grants you access to more blog templates instead of limited templates, "
+"useful features like to design category/tag/author pages as well as single "
+"post pages, hassle-free regular updates, and a premium support for 6 months "
+"or one year based on your purchase!"
+msgstr ""
+
+#: includes/getting_started.php:129
+msgid "Get an entire collection of beautiful blog templates for one low price."
+msgstr ""
+
+#: includes/getting_started.php:130
+msgid ""
+"Blog Designer PRO for WordPress grants you access to our collection of pixel-"
+"perfect blog templates, support of multiple blog pages and premium support "
+"for 6 months — a complete value of price!"
+msgstr ""
+
+#: includes/getting_started.php:131
+msgid "Learn about the Blog Designer PRO"
+msgstr ""
+
+#: includes/getting_started.php:135
+msgid "Other Premium Plugins"
+msgstr ""
+
+#: includes/getting_started.php:138 includes/getting_started.php:141
+msgid "Avartan Slider"
+msgstr ""
+
+#: includes/getting_started.php:141
+msgid ""
+"is a responsive WordPress plugin to create stunning image slider and video "
+"slider for your WordPress website. It has unique features like drag and drop "
+"visual slider builder, multi-media content, etc."
+msgstr ""
+
+#: includes/getting_started.php:147 includes/getting_started.php:150
+msgid "Portfolio Designer"
+msgstr ""
+
+#: includes/getting_started.php:150
+msgid ""
+"is a WordPress plugin used to build portfolio in any desired layout. This "
+"plugin is user friendly, So no matter if you are a beginner, WordPress user, "
+"Designer or a Developer, no additional coding knowledge is required in "
+"creating portfolio layouts."
+msgstr ""
+
+#: includes/getting_started.php:155
+msgid "Other Premium Themes"
+msgstr ""
+
+#: includes/getting_started.php:158 includes/getting_started.php:161
+msgid "Kosmic"
+msgstr ""
+
+#: includes/getting_started.php:161
+msgid ""
+"is a multipurpose WordPress theme which is suitable for almost all types of "
+"websites. This eCommerce theme is very simple, clean and professional. It "
+"comes with an extensive theme options panel to customize your site easily as "
+"per your requirements."
+msgstr ""
+
+#: includes/getting_started.php:167 includes/getting_started.php:170
+msgid "FoodFork"
+msgstr ""
+
+#: includes/getting_started.php:170
+msgid ""
+"is a premium WordPress theme for Restaurants and food business websites. You "
+"can use this theme for your business websites like restaurant, cafe, coffee "
+"shop, fast food or pizza store."
+msgstr ""
+
+#: includes/getting_started.php:176 includes/getting_started.php:179
+msgid "JewelUX"
+msgstr ""
+
+#: includes/getting_started.php:179
+msgid ""
+"is a clean and modern jewelry WordPress theme designed for any online "
+"jewelry website. It’s a WooCommerce theme with responsive layout, fully "
+"widgetized and animated home page."
+msgstr ""
+
+#: includes/getting_started.php:189
+msgid "Enhance your website with one the best free WordPress plugins by"
+msgstr ""
+
+#: includes/getting_started.php:189 includes/getting_started.php:220
+msgid "Solwin Infotech!"
+msgstr ""
+
+#: includes/getting_started.php:191
+msgid "Check out our Free and Premium plugins"
+msgstr ""
+
+#: includes/getting_started.php:220
+msgid ""
+"Build a professional looking website with one of the best free WordPress "
+"themes by"
+msgstr ""
+
+#: includes/getting_started.php:222
+msgid "Check out our Free and Premium themes"
+msgstr ""
+
+#: includes/promo_notice.php:152
+msgid ""
+"It's been a while you are using <strong>Blog Designer</strong>, tell us did "
+"you like it or not? Care to share some love."
+msgstr ""
+
+#: includes/promo_notice.php:154
+msgid "Rate it 5★'s"
+msgstr ""
+
+#: includes/promo_notice.php:155 includes/promo_notice.php:170
+msgid "Like us on Facebook"
+msgstr ""
+
+#: includes/promo_notice.php:156 includes/promo_notice.php:171
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: includes/promo_notice.php:157 includes/promo_notice.php:172
+msgid "Explore Documentation"
+msgstr ""
+
+#: includes/promo_notice.php:158
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/promo_notice.php:168
+msgid "We are delighted that you are using <strong>Blog Designer</strong>."
+msgstr ""
